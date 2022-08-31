@@ -2,16 +2,27 @@ h1, h2 {
     text-align: center;
     color: antiquewhite;
 }
+p {
+    text-align: center;
+    font-size: 24px;
+}
 body {
     background: linear-gradient(to top, #c79081 0%, #dfa579 100%);
 
 }
 .links {
-    color: antiquewhite;
+    
     margin-top: 10px;
     text-align: center;
+   
+}
+.links a {
+    color: antiquewhite;
+    margin: 10px;
+    
 }
 img {
     display: block;
     margin: 0 auto;
+    border-radius: 10px;
 }
