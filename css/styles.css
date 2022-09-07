@@ -2,12 +2,17 @@ h1, h2 {
     text-align: center;
     color: antiquewhite;
 }
+h1 {
+    font-size: 86px;
+}
 p {
     text-align: center;
-    font-size: 24px;
+    font-size: 28px;
+    padding: 20px 250px;
 }
 body {
     background: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+
 
 }
 .links {
@@ -24,5 +29,6 @@ body {
 img {
     display: block;
     margin: 0 auto;
+    padding: 36px;
     border-radius: 10px;
 }
