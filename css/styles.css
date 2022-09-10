@@ -1,6 +1,7 @@
 h1, h2 {
     text-align: center;
-    color: antiquewhite;
+    color: #855136;
+    font-family: 'Combo', cursive;
 }
 h1 {
     font-size: 86px;
@@ -9,12 +10,21 @@ p {
     text-align: center;
     font-size: 28px;
     padding: 20px 250px;
+    color: #855136;
+    font-family: 'Roboto', sans-serif;;
 }
 body {
-    background: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+    background: #EFECDD;
 
 
 }
+
+h3 {
+margin-top: 100px;
+margin-bottom: 300px;
+    color: #855136;
+    font-family: 'Roboto', sans-serif;
+        }
 .links {
     
     margin-top: 10px;
@@ -24,6 +34,8 @@ body {
 .links a {
     color: antiquewhite;
     margin: 10px;
+    color: #855136;
+    font-family: 'Roboto', sans-serif;
     
 }
 img {
