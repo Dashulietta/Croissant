@@ -4,7 +4,7 @@ h1, h2 {
     font-family: 'Combo', cursive;
 }
 h1 {
-    font-size: 86px;
+    font-size: 76px;
 }
 p {
     text-align: center;
@@ -43,4 +43,13 @@ img {
     margin: 0 auto;
     padding: 36px;
     border-radius: 10px;
+}
+@media (max-width: 600px) {
+
+   h1 {
+font-size: 56px;
+    }
+    p {
+        font-size: 20px;
+        padding: 10px 10px;}
 }
