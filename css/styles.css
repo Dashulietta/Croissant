@@ -1,3 +1,7 @@
+body {
+    max-width: 800px;
+
+} 
 h1, h2 {
     text-align: center;
     color: #855136;
@@ -47,9 +51,14 @@ img {
 @media (max-width: 600px) {
 
    h1 {
+    padding-top: 20px;
 font-size: 56px;
     }
     p {
         font-size: 20px;
         padding: 10px 10px;}
+        h3 {
+            margin-top: 20px;
+            margin-bottom: 90px;
+        }
 }
