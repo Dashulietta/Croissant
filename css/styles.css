@@ -17,7 +17,8 @@ h1 {
 h5 {
     text-align: center;
     color: #855136;
-    font-size: 76px;
+    font-size: 66px;
+    margin: 0;
     margin-bottom: 30px;
 }
 p {
@@ -33,13 +34,13 @@ p {
 h4 {
 margin-top: 70px;
 font-size: 30px;
-margin-bottom: 300px;
+margin-bottom: 2ы00px;
     color: #855136;
     font-family: 'Roboto', sans-serif;
         }
 .links {
     
-    margin-top: 25px;
+    margin-top: 10px;
     text-align: center;
    
 }
